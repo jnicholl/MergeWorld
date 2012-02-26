@@ -1,0 +1,29 @@
+- Win/lose conditions
+- Bigger upgrade path
+- 3D levels (above or below, some way to choose which direction to build)
+- Multiple pictures of the same item for variety
+- Having extra combines give more score and a 'special' version of the upgrade
+- Moving objects (like bears)
+   - have to detect when a group of them cannot move
+- Enemies that downgrade buildings randomly
+- Level editor
+   - with a way to edit the upgrade hierarchy too?
+- Tutorial levels
+- Some way to get and spend 'money'
+- Wild card type (like crystal)
+- Animated placed items
+- Extra animations for effect (e.g. people coming out of houses)
+
+- For tutorial level
+   - way to disable stash
+   - way to control types of incoming items
+   - way to show dialogs with text
+   - way to highlight particular control
+
+- is the upgrade hierarchy too large? It takes a LONG time to get the bigger things.
+   - 4^5 grass = castle. This is 1024 grass. It's 4 castles for a treasure, so 4096 grass.
+   - 4^3 sandpile = pyramid. This is only 64 sandpiles, or 256 for a treasure.
+
+- Recipes - not just same type in arbitrary connected pattern
+   - recipes need particular number and type connected
+   - may need orientation or pattern direction
